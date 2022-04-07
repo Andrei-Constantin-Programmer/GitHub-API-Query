@@ -1,6 +1,7 @@
 # GitHub API Query
 This is my first Python project ever!  
 It runs some cool scripts on my personal GitHub page and does some computations on my repositories. Feel free to use it on your own repos as well!
+Special thanks to [Milovan Gveric](https://github.com/Unknown807) for helping me out with the programming_languages script
 
 ## How to Install and Run (using PyCharm)
 
